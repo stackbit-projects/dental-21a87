@@ -47,7 +47,7 @@
         "primary_nav_links": [
             {
                 "label": "Rólunk",
-                "url": "/about",
+                "url": "/rolunk",
                 "style": "link"
             },
             {
