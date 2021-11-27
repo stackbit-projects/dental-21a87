@@ -7,15 +7,7 @@ sections:
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
+    actions: []
     image: /images/251542475_1301586463616839_3018329482283139504_n.jpeg
     image_alt: Hero section placeholder image
     media_position: left
