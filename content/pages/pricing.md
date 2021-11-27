@@ -23,18 +23,16 @@ sections:
         actions_width: full-width
       - title: Porcelán
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $39
+          # 40.000 Ft
 
-          per month, billed yearly
+          *   Cirkon korona
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+          *   60.000 Ft
+
+          *   CAD/CAM eljárással
         content_align: left
         actions:
           - label: Start with Business
