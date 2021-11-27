@@ -335,7 +335,7 @@ seo:
       value: Elekes dental
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: Elekes dental
       keyName: property
     - name: 'og:image'
       value: images/diy-preview.png
