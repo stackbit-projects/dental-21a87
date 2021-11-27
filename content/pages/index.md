@@ -228,10 +228,10 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Keress Minket Bizalommal
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      Ez egy hosszú teszt szöveg, amit bármikor át lehet írni. Ez egy hosszú
+      teszt szöveg, amit bármikor át lehet írni.  Ez egy hosszú teszt szöveg,
+      amit bármikor át lehet írni.
     actions:
       - label: Kapcsolat felvétel
         url: /pricing
