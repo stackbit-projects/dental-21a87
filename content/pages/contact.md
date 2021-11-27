@@ -80,7 +80,7 @@ sections:
     background_color: primary
 seo:
   title: Kapcsolat
-  description: This is the contact page
+  description: Ez a kapcsolat oldal
   extra:
     - name: 'og:type'
       value: website
