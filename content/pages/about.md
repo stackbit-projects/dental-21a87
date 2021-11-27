@@ -123,7 +123,7 @@ sections:
     background_color: primary
 seo:
   title: Rólunk
-  description: This is the about us page
+  description: Ez a bemutatkozás oldal
   extra:
     - name: 'og:type'
       value: website
