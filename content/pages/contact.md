@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Kapcsolat
 sections:
   - type: hero_section
     title: Get in touch
