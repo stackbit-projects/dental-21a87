@@ -60,7 +60,7 @@ sections:
           teljes fogazatnak a pótlása, egyszóval fogpótlás vagy fogbeültetés
           mesterséges foggyökerek segítségével.
         actions:
-          - label: Learn More
+          - label: Megtekint
             url: /style-guide
             style: primary
             has_icon: true
