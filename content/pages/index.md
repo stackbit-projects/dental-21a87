@@ -44,7 +44,7 @@ sections:
           higanytartalma miatt egészségre káros és több országban már be is
           tiltott amalgám tömésekkel szemben.
         actions:
-          - label: Learn More
+          - label: Megtekint
             url: /style-guide
             style: primary
             has_icon: true
