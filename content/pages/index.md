@@ -79,7 +79,7 @@ sections:
           váltódásából adódan, illetve örökletes alapon.
         actions:
           - label: Megtekint
-            url: /style-guide
+            url: /
             style: primary
             has_icon: true
             icon: arrow-right
