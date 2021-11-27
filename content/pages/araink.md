@@ -9,8 +9,7 @@ sections:
     title: Áraink
   - type: grid_section
     grid_items:
-      - title: Personal
-        subtitle: Optional subtitle
+      - subtitle: Optional subtitle
         title_align: left
         content: |-
           ---
