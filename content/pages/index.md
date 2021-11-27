@@ -195,7 +195,7 @@ sections:
 
 
           **Teszt Elek**
-        image: images/miles-tone.png
+        image: /images/eleanor-carr.png
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
