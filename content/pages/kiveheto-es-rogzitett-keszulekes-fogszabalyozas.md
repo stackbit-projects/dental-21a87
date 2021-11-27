@@ -25,6 +25,10 @@ seo:
         content
 layout: page
 ---
+
+
+![](/images/252342931\_1301586426950176\_6639924170963829284\_n-8706f9ad.jpeg)
+
 A kivehető fogszabályozó készülékeket leggyakrabban nem felnőtt-, hanem gyermekkorban használjuk, de kisebb korrekciókra felnőtt korban is alkalmasak lehetnek. Amikor a fogszabályozás ezzel a készülékkel történik, azt általában éjszakai használatra javasoljuk, de érdemes még azon túl néhány órát nappal is – összességében napi 10-12 órát – hordani.
 
 *   Aktív lemezek
