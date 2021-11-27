@@ -2,7 +2,7 @@
 title: Rólunk
 sections:
   - type: hero_section
-    title: About
+    title: Rólunk
     subtitle: About Page Demo
     align: center
     background_color: secondary
