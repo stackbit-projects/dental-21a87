@@ -39,10 +39,10 @@ sections:
     title: Szolgáltatások
     subtitle: Kiemelt
     features:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+      - content: >
+          Biztonságos és esztétikus tömőanyagok gyártói megnyerték a harcot a
+          higanytartalma miatt egészségre káros és több országban már be is
+          tiltott amalgám tömésekkel szemben.
         actions:
           - label: Learn More
             url: /style-guide
