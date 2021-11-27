@@ -15,9 +15,9 @@ sections:
         content: |
           ***
 
-          ### 16.000 Ft
+          ###  7.000 Ft
 
-          Ultrahangos fogkő eltávolítás
+          Állapotfelmérés, szaktanácsadás
         content_align: left
         actions:
           - label: Start with Personal
