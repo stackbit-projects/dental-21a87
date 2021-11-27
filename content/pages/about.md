@@ -1,5 +1,5 @@
 ---
-title: About
+title: Rólunk
 sections:
   - type: hero_section
     title: About
