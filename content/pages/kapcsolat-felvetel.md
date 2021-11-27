@@ -11,18 +11,24 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >-
-      ## Billing
+    content: |
+      ## Címünk
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      7460 Kaposvár, Szent István tér 7.
 
-      ## Privacy
+      ## Elérhetőségeink
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      info@elekesdental.hu
+
+      \+36 30 444 5555
+
+      ## Rendelési idő
+
+      H-P: 08:00-20:00
+
+      Szombaton előzetes bejelentkezés alapján.
+
+      Vasárnap: Zárva
     content_align: left
     form_position: right
     form_width: fifty
