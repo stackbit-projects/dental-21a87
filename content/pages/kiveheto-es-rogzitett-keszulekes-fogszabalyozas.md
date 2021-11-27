@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: Kivehető és rögzített fogszabályzás
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
