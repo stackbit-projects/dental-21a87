@@ -27,18 +27,12 @@ sections:
       - title: Porcelán korona
         subtitle: Teszt szöveg
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $19
+          ### 40.000 Ft
 
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+          *   CAD/CAM eljárással - 60.000 Ft
         content_align: left
         actions:
           - label: Start with Premium
