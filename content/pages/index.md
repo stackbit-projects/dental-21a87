@@ -198,12 +198,13 @@ sections:
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Ez egy hosszú teszt szöveg, amit bármikor át lehet írni. Ez egy hosszú
+          teszt szöveg, amit bármikor át lehet írni.  Ez egy hosszú teszt
+          szöveg, amit bármikor át lehet írni.
 
 
-          **Eleanor Carr,** *CTO, Studio*
+          **Teszt Elek**
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left
