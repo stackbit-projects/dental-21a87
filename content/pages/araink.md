@@ -11,17 +11,14 @@ sections:
     grid_items:
       - subtitle: Teszt szöveg
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $9
+          ### 7.000 Ft
 
-          per month, billed yearly
+          *   állapotfelmérés, 
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+          *   szaktanácsadás
         content_align: left
         actions:
           - label: Start with Personal
