@@ -14,7 +14,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
-        image: images/about-5.jpg
+        image: /images/251239855_1301587640283388_3863233141848061499_n.jpeg
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
