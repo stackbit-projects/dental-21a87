@@ -55,9 +55,6 @@ sections:
         default_value: Üzenet tartalama
       - input_type: checkbox
         name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
         is_required: true
     submit_label: Üzenet küldése
     align_vert: top
