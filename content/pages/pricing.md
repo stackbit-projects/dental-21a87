@@ -12,17 +12,12 @@ sections:
       - title: Personal
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $9
+          ### 16.000 Ft
 
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+          Ultrahangos fogkő eltávolítás
         content_align: left
         actions:
           - label: Start with Personal
