@@ -39,7 +39,7 @@ sections:
       - input_type: email
         name: email
         label: E-mail
-        default_value: pelda@
+        default_value: pelda@gmail.com
         is_required: true
       - input_type: select
         name: subject
