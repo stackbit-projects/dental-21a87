@@ -7,7 +7,6 @@
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "title": "DIY",
         "logo": "/images/elekes-logo.png",
         "logo_alt": "Elekes Dental",
         "has_primary_nav": true,
