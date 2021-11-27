@@ -89,7 +89,7 @@ seo:
       value: Kapcsolat
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: Ez a kapcsolat oldal
       keyName: property
     - name: 'twitter:card'
       value: summary
