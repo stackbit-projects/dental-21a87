@@ -73,10 +73,11 @@ sections:
         title: Implantációs fogpótlások
       - title: Fogszabályzás
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          A fogszabályozás nem más, mint a fogak, a fogazat és az állcsontok
+          helyzeti eltéréseinek kezelése. Ezek az eltérések kialakulhatnak rossz
+          szokások miatt (pl. cumi, ujjszopás), tejfogak rendellenes
+          váltódásából adódan, illetve örökletes alapon.
         actions:
           - label: Learn More
             url: /style-guide
