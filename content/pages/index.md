@@ -50,7 +50,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-1.png
+        image: /images/251505549_1301587296950089_8478002879709312391_n.jpeg
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
