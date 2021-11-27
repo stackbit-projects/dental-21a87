@@ -25,7 +25,7 @@ sections:
         actions_width: full-width
         title: Állapotfelmérés
       - title: Porcelán korona
-        subtitle: Optional subtitl
+        subtitle: Teszt szöveg
         title_align: left
         content: |-
           ---
