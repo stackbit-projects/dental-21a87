@@ -9,7 +9,7 @@ sections:
     title: Áraink
   - type: grid_section
     grid_items:
-      - subtitle: Optional subtitle
+      - subtitle: Teszt szöveg
         title_align: left
         content: |-
           ---
