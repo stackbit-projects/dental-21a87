@@ -21,21 +21,6 @@ sections:
         actions: []
         actions_align: left
         actions_width: full-width
-      - title: Fogeltávolítás
-        title_align: left
-        content: |
-          ***
-
-          ### 8.000 Ft
-
-          Egyszerű: 8.000 Ft | Közepes: 13.000 Ft | Komplikált:  15.000 Ft
-        content_align: left
-        actions:
-          - label: Start with Premium
-            url: /features
-            style: primary
-        actions_align: left
-        actions_width: full-width
       - title: Business
         subtitle: Optional subtitle
         title_align: left
