@@ -177,12 +177,13 @@ sections:
     title: Vélemények
     subtitle: Pácienseink mondták
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Ez egy hosszú teszt szöveg, amit bármikor át lehet írni. Ez egy hosszú
+          teszt szöveg, amit bármikor át lehet írni.  Ez egy hosszú teszt
+          szöveg, amit bármikor át lehet írni. 
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Teszt Elek**
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
