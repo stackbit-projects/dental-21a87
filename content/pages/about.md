@@ -122,7 +122,7 @@ sections:
     has_border: false
     background_color: primary
 seo:
-  title: About
+  title: Rólunk
   description: This is the about us page
   extra:
     - name: 'og:type'
