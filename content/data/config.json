@@ -85,7 +85,7 @@
         "tertiary_nav_links": [
             {
                 "label": "Adatvédelmi szabályzat",
-                "url": "/terms-conditions",
+                "url": "/adatkezeles",
                 "style": "link"
             },
             {
