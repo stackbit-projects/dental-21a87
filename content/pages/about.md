@@ -129,7 +129,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About
+      value: Rólunk
       keyName: property
     - name: 'og:description'
       value: This is the about us page
