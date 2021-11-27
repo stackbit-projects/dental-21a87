@@ -78,7 +78,7 @@ sections:
           szokások miatt (pl. cumi, ujjszopás), tejfogak rendellenes
           váltódásából adódan, illetve örökletes alapon.
         actions:
-          - label: Learn More
+          - label: Megtekint
             url: /style-guide
             style: primary
             has_icon: true
