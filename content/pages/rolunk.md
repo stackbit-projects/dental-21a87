@@ -5,6 +5,7 @@ sections:
     title: Rólunk
     align: center
     background_color: secondary
+    subtitle: 'Egy fogászat, ahol minden megtalálható, amire Önnek szüksége van'
   - type: features_section
     features:
       - title: Rendelő bemutatása
