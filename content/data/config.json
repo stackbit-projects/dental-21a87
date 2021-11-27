@@ -2,7 +2,7 @@
     "title": "Elekes Dental",
     "path_prefix": "/",
     "layout_type": "boxed",
-    "style": "classic",
+    "style": "minimal",
     "palette": "green",
     "mode": "light",
     "base_font": "serif",
