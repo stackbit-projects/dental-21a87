@@ -39,10 +39,7 @@ sections:
     title: Szolgáltatások
     subtitle: Kiemelt
     features:
-      - subtitle: >-
-          Biztonságos és esztétikus tömőanyagok gyártói megnyerték a harcot a
-          higanytartalma miatt egészségre káros és több országban már be is
-          tiltott amalgám tömésekkel szemben.
+      - subtitle: Biztonságos és esztétikus tömőanyagok gyártói megny
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
