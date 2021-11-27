@@ -55,10 +55,10 @@ sections:
         media_position: right
         media_width: fifty
         title: Esztétikus fogtömések
-      - content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+      - content: >
+          Az implantációs beavatkozás nem más, mint a hiányzó fognak vagy akár
+          teljes fogazatnak a pótlása, egyszóval fogpótlás vagy fogbeültetés
+          mesterséges foggyökerek segítségével.
         actions:
           - label: Learn More
             url: /style-guide
