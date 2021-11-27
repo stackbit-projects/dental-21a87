@@ -160,5 +160,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://dental-21a87.netlify.app"
+    "domain": "https://dental-21a87.netlify.app",
+    "favicon": "/images/elekes-logo.png"
 }
