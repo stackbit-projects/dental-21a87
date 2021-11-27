@@ -94,7 +94,7 @@ sections:
   - type: features_section
     features:
       - title: “Ide egy humánus frappáns idézet csatolható”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: 'Azért kell, mert így elegáns és szép tördelt a honlap blokkjai'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
