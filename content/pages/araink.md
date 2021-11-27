@@ -25,7 +25,7 @@ sections:
         actions_width: full-width
         title: Állapotfelmérés
       - title: Porcelán korona
-        subtitle: Optional subtitle
+        subtitle: Optional subtitl
         title_align: left
         content: |-
           ---
