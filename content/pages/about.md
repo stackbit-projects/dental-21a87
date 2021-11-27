@@ -132,7 +132,7 @@ seo:
       value: Rólunk
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: Ez a bemutatkozás oldal
       keyName: property
     - name: 'og:image'
       value: images/about-1.jpg
