@@ -47,7 +47,7 @@ sections:
         default_value: Válasszon a lehetőségek közül
         options:
           - Általános információ
-          - Időpontfgolalás
+          - Időpontfoglalás
           - Other
       - input_type: textarea
         name: message
