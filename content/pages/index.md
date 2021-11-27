@@ -45,7 +45,7 @@ sections:
           tiltott amalgám tömésekkel szemben.
         actions:
           - label: Megtekint
-            url: /style-guide
+            url: /kiveheto-es-rogzitett-keszulekes-fogszabalyozas
             style: primary
             has_icon: true
             icon: arrow-right
