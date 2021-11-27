@@ -24,7 +24,7 @@ sections:
         actions_align: left
         actions_width: full-width
         title: Állapotfelmérés
-      - title: Premium
+      - title: Porcelán fogpótlás
         subtitle: Optional subtitle
         title_align: left
         content: |-
