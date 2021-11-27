@@ -24,7 +24,7 @@ sections:
         actions_align: left
         actions_width: full-width
         title: Állapotfelmérés
-      - title: Porcelán fogpótlás
+      - title: Porcelán korona
         subtitle: Optional subtitle
         title_align: left
         content: |-
