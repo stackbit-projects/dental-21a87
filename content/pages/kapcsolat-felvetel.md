@@ -52,7 +52,7 @@ sections:
       - input_type: textarea
         name: message
         label: Üzenet
-        default_value: Üzenet tartalama
+        default_value: 'Üzenet tartalama '
       - input_type: checkbox
         name: consent
         label: >-
