@@ -184,7 +184,7 @@ sections:
 
 
           **Teszt Elek**
-        image: /images/251024274_1301587286950090_2812150091247402731_n.jpeg
+        image: /images/gordon-norman.png
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
