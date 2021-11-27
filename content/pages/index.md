@@ -350,5 +350,6 @@ seo:
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
+  description: Elekes dental
 layout: advanced
 ---
