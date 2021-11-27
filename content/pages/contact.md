@@ -79,7 +79,7 @@ sections:
     padding_bottom: large
     background_color: primary
 seo:
-  title: Contact
+  title: Kapcsolat
   description: This is the contact page
   extra:
     - name: 'og:type'
