@@ -22,7 +22,6 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Porcelán
-        subtitle: Optional subtitle
         title_align: left
         content: |-
           ---
