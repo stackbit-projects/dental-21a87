@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Áraink
-    subtitle: Optional hero section sub
+    subtitle: Részletes árszabásunkért keress minket a megadott elérhetőségeinken
     align: center
     padding_top: large
     padding_bottom: small
