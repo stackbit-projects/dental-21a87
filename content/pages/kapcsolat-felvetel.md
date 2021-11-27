@@ -44,7 +44,7 @@ sections:
       - input_type: select
         name: subject
         label: Tárgy
-        default_value: Válasszon a lehtőségek közül
+        default_value: Válasszon a lehetőségek közül
         options:
           - Error on the site
           - Sponsorship
