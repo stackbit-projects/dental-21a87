@@ -52,7 +52,7 @@ sections:
       - input_type: textarea
         name: message
         label: Üzenet
-        default_value: Your message
+        default_value: 'Rövid üzenet '
       - input_type: checkbox
         name: consent
         label: >-
