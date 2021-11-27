@@ -14,9 +14,9 @@ sections:
         content: |
           ***
 
-          ###  7.000 Ft
+          ## 7.000 Ft
 
-          Állapotfelmérés, szaktanácsadás
+          *   Állapotfelmérés, szaktanácsadás
         content_align: left
         actions: []
         actions_align: left
