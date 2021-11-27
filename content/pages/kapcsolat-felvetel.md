@@ -46,7 +46,7 @@ sections:
         label: Tárgy
         default_value: Válasszon a lehetőségek közül
         options:
-          - Error on the site
+          - null
           - Sponsorship
           - Other
       - input_type: textarea
