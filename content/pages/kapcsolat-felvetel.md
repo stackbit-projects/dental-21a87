@@ -48,7 +48,7 @@ sections:
         options:
           - Általános információ
           - Időpontfoglalás
-          - null
+          - Egyéb
       - input_type: textarea
         name: message
         label: Message
