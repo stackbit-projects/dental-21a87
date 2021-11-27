@@ -24,7 +24,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
-        image: images/about-2.jpg
+        image: /images/251832789_1301586130283539_5218663405412418034_n.jpeg
         image_alt: People in a conference room
         media_position: left
         media_width: fifty
