@@ -47,7 +47,7 @@ sections:
         default_value: Válasszon a lehetőségek közül
         options:
           - Általános információ
-          - Sponsorship
+          - null
           - Other
       - input_type: textarea
         name: message
