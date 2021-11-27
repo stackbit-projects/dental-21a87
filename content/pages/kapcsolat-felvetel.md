@@ -56,6 +56,9 @@ sections:
       - input_type: checkbox
         name: consent
         is_required: true
+        label: >-
+          Tudomásul veszem, hogy ez az űrlap tárolja a beküldött adataimat, hogy
+          kapcsolatba léphessenek velem.
     submit_label: Üzenet küldése
     align_vert: top
     padding_top: medium
