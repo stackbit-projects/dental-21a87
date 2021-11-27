@@ -3,7 +3,9 @@ title: General enquiries
 sections:
   - type: hero_section
     title: Vedd fel velünk a kapcsolat
-    subtitle: The optional subtitle
+    subtitle: >-
+      A gyors válaszra van szükséged a lenti űrlap segítségével vedd fel velünk
+      a kapcsolat.
     align: center
     padding_top: medium
     padding_bottom: medium
