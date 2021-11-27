@@ -41,7 +41,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Teszt ár
-        subtitle: Optional subtitle
+        subtitle: Teszt szöveg
         title_align: left
         content: |-
           ---
