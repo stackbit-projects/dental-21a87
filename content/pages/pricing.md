@@ -26,7 +26,7 @@ sections:
         content: |
           ***
 
-          # 40.000 Ft
+          ## 40.000 Ft
 
           *   Cirkon korona
 
