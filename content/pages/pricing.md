@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Áraink
-    subtitle: Optional hero section subtitle
+    subtitle: Optional hero section subt
     align: center
     padding_top: large
     padding_bottom: small
