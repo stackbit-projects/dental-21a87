@@ -3,7 +3,7 @@ title: Rólunk
 sections:
   - type: hero_section
     title: Rólunk
-    subtitle: About Page Demo
+    subtitle: Bemutatkozás
     align: center
     background_color: secondary
   - type: features_section
