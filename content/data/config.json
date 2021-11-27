@@ -41,7 +41,7 @@
         "secondary_nav_links": [
             {
                 "label": "Kapcsolat",
-                "url": "/contact",
+                "url": "/kapcsolat",
                 "style": "link"
             },
             {
