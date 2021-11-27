@@ -12,13 +12,13 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Árak",
-                "url": "/araink",
+                "label": "Rólunk",
+                "url": "/rolunk",
                 "style": "link"
             },
             {
-                "label": "Rólunk",
-                "url": "/rolunk",
+                "label": "Árak",
+                "url": "/araink",
                 "style": "link"
             },
             {
