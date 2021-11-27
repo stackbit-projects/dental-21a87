@@ -72,7 +72,6 @@ sections:
         media_width: fifty
         title: Implantációs fogpótlások
       - title: Fogszabályzás
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >
           A fogszabályozás nem más, mint a fogak, a fogazat és az állcsontok
           helyzeti eltéréseinek kezelése. Ezek az eltérések kialakulhatnak rossz
