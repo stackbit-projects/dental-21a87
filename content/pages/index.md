@@ -79,7 +79,7 @@ sections:
           váltódásából adódan, illetve örökletes alapon.
         actions:
           - label: Megtekint
-            url: /
+            url: /kiveheto-es-rogzitett-keszulekes-fogszabalyozas
             style: primary
             has_icon: true
             icon: arrow-right
