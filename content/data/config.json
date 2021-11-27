@@ -71,7 +71,7 @@
         "secondary_nav_title": "Szolgáltatások",
         "secondary_nav_links": [
             {
-                "label": "News",
+                "label": "Szolgáltatás",
                 "url": "/blog/category/news",
                 "style": "link"
             },
