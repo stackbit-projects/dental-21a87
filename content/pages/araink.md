@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Áraink
 sections:
   - type: hero_section
     title: Pick Your Plan
