@@ -5,7 +5,7 @@
 $theme-styles: (
 	classic: (
 		fonts: (
-			serif: ('Inter'),
+			serif: ('Inter', sans-serif),
             sans-serif: ('Open Sans', Lato, sans-serif)
 		),
 		colors: (
