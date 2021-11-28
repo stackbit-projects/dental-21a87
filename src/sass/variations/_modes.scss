@@ -1,7 +1,7 @@
 /**
  * Light/dark mode
  */
-.mode-light {
+ .mode-light {
 	&.style-classic {
 		.card--highlight {
 			box-shadow: none;
@@ -367,7 +367,7 @@
 	}
 
 	.bg-secondary {
-		background: $color-dark-secondary-sect-bg;
+		background: rgba(250, 107, 10, 0.87);
 	}
 
 	.card {
