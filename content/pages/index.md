@@ -189,6 +189,10 @@ seo:
     - name: 'twitter:image'
       value: /images/242867562_1301587133616772_239410751312712273_n-73cd109d.jpeg
       relativeUrl: true
+    - name: 'twitter:description'
+      value: Különböző fogászati és szájhigiéniás kezelések.
+      keyName: name
+      relativeUrl: false
   description: Elekes Dental
 layout: advanced
 ---
