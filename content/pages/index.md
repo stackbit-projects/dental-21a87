@@ -34,7 +34,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     title: Rövid ismertető
-    subtitle: Fogászat rövid bemutatás
+    subtitle: Történetünk
   - type: features_section
     title: Fogászati kezelések
     subtitle: Kiemelt
