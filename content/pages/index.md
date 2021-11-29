@@ -178,9 +178,6 @@ seo:
     - name: 'og:title'
       value: Dr. Elekes Eszter - Fogorvos
       keyName: property
-    - name: 'og:description'
-      value: Elekes dental
-      keyName: property
     - name: 'og:image'
       value: /images/242867562_1301587133616772_239410751312712273_n.jpeg
       keyName: property
