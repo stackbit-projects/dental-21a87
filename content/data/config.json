@@ -38,7 +38,8 @@
                 "url": "tel:+",
                 "style": "secondary"
             }
-        ]
+        ],
+        "title": "ElekesDental"
     },
     "footer": {
         "logo_alt": "DIY logo",
