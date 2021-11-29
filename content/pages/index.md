@@ -193,6 +193,6 @@ seo:
       value: Különböző fogászati és szájhigiéniás kezelések.
       keyName: name
       relativeUrl: false
-  description: Elekes Dental
+  description: Különböző fogászati és szájhigiéniás kezelések.
 layout: advanced
 ---
