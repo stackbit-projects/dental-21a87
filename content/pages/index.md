@@ -176,7 +176,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Elekes dental
+      value: Dr. Elekes Eszter - Fogorvos
       keyName: property
     - name: 'og:description'
       value: Elekes dental
