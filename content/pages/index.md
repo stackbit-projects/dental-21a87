@@ -182,7 +182,7 @@ seo:
       value: Elekes dental
       keyName: property
     - name: 'og:image'
-      value: images/diy-preview.png
+      value: /images/242867562_1301587133616772_239410751312712273_n.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
