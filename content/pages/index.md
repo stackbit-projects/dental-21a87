@@ -186,8 +186,6 @@ seo:
       value: summary_large_image
     - name: 'twitter:title'
       value: Dr. Elekes Eszter - Fogorvos
-    - name: 'twitter:description'
-      value: The preview of the DIY theme
     - name: 'twitter:image'
       value: /images/242867562_1301587133616772_239410751312712273_n-73cd109d.jpeg
       relativeUrl: true
