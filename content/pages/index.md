@@ -170,7 +170,7 @@ sections:
     padding_bottom: large
     background_color: primary
 seo:
-  title: Elekes dental
+  title: Elekes Dental
   extra:
     - name: 'og:type'
       value: website
